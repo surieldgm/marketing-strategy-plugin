@@ -1,0 +1,22 @@
+{
+  "name": "eria-marketing",
+  "owner": {
+    "name": "Suriel García",
+    "email": "suriel.garcia@eria.ai"
+  },
+  "metadata": {
+    "description": "Marketplace de Suriel García — plugins de marketing con IA.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "marketing-strategy",
+      "source": "./",
+      "description": "Orquesta una estrategia de marketing digital end-to-end (13 entregables, invariantes R1–R7) y la arma en Notion.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Suriel García"
+      }
+    }
+  ]
+}

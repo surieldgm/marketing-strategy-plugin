@@ -1,0 +1,18 @@
+{
+  "name": "marketing-strategy",
+  "version": "1.0.0",
+  "description": "Harness que orquesta de punta a punta una estrategia de marketing digital con IA (13 entregables, 7 invariantes R1–R7): del contexto de empresa a la táctica — buyer persona, investigación, keywords, análisis competitivo ≥10, campaña por etapa de embudo, KPIs, contenido y landing — y los arma en el template de Notion.",
+  "author": {
+    "name": "Suriel García",
+    "email": "suriel.garcia@eria.ai"
+  },
+  "keywords": [
+    "marketing",
+    "strategy",
+    "buyer-persona",
+    "competitive-analysis",
+    "kpis",
+    "landing-page",
+    "notion"
+  ]
+}

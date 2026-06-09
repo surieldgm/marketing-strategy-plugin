@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# casos generados por la skill (no se versionan en el plugin)
+cases/
