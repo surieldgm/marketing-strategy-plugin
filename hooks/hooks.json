@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/scripts/ensure-deps.sh",
+            "timeout": 180,
+            "statusMessage": "Verificando skills de marketing (dependencias de marketing-strategy)…"
+          }
+        ]
+      }
+    ]
+  }
+}
